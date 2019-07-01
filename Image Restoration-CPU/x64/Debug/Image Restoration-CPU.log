@@ -1,0 +1,11 @@
+﻿  Image Restoration-CPU.cpp
+c:\d-325gb\research code\image enhancement\image restoration\image restoration-cpu\image restoration-cpu\image restoration-cpu.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\d-325gb\research code\image enhancement\image restoration\image restoration-cpu\image restoration-cpu\image restoration-cpu.cpp(69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\d-325gb\research code\image enhancement\image restoration\image restoration-cpu\image restoration-cpu\image restoration-cpu.cpp(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\d-325gb\research code\image enhancement\image restoration\image restoration-cpu\image restoration-cpu\image restoration-cpu.cpp(97): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\d-325gb\research code\image enhancement\image restoration\image restoration-cpu\image restoration-cpu\image restoration-cpu.cpp(99): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\d-325gb\research code\image enhancement\image restoration\image restoration-cpu\image restoration-cpu\image restoration-cpu.cpp(118): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\d-325gb\research code\image enhancement\image restoration\image restoration-cpu\image restoration-cpu\image restoration-cpu.cpp(126): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\d-325gb\research code\image enhancement\image restoration\image restoration-cpu\image restoration-cpu\image restoration-cpu.cpp(128): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Image Restoration-CPU.vcxproj -> C:\D-325GB\RESEARCH CODE\Image Enhancement\Image Restoration\Image Restoration-CPU\x64\Debug\Image Restoration-CPU.exe
+  Image Restoration-CPU.vcxproj -> C:\D-325GB\RESEARCH CODE\Image Enhancement\Image Restoration\Image Restoration-CPU\x64\Debug\Image Restoration-CPU.pdb (Full PDB)
